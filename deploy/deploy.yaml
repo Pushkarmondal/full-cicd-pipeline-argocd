@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: demo-app
-        image: nishit7908/myapp:b822587ed839b18db0d555845b6882b16878f0d1
+        image: nishit7908/myapp:b983d4e159aebe1078081bea5d2d36e1a1408508
         ports:
         - containerPort: 5001
